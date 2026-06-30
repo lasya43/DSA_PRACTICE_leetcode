@@ -15,4 +15,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/lasya43/Leetco/tree/master/0128-longest-consecutive-sequence) |
+## String
+|  |
+| ------- |
+| [2138-divide-a-string-into-groups-of-size-k](https://github.com/lasya43/Leetco/tree/master/2138-divide-a-string-into-groups-of-size-k) |
+## Simulation
+|  |
+| ------- |
+| [2138-divide-a-string-into-groups-of-size-k](https://github.com/lasya43/Leetco/tree/master/2138-divide-a-string-into-groups-of-size-k) |
 <!---LeetCode Topics End-->
