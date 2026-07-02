@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/lasya43/Leetco/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/lasya43/Leetco/tree/master/0035-search-insert-position) |
+| [0075-sort-colors](https://github.com/lasya43/Leetco/tree/master/0075-sort-colors) |
 | [0128-longest-consecutive-sequence](https://github.com/lasya43/Leetco/tree/master/0128-longest-consecutive-sequence) |
 ## Hash Table
 |  |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/lasya43/Leetco/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/lasya43/Leetco/tree/master/0075-sort-colors) |
 | [0086-partition-list](https://github.com/lasya43/Leetco/tree/master/0086-partition-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/lasya43/Leetco/tree/master/0160-intersection-of-two-linked-lists) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/lasya43/Leetco/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/lasya43/Leetco/tree/master/0075-sort-colors) |
 | [0147-insertion-sort-list](https://github.com/lasya43/Leetco/tree/master/0147-insertion-sort-list) |
 ## Recursion
 |  |
