@@ -11,11 +11,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/lasya43/Leetco/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/lasya43/Leetco/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/lasya43/Leetco/tree/master/0128-longest-consecutive-sequence) |
+| [0169-majority-element](https://github.com/lasya43/Leetco/tree/master/0169-majority-element) |
 ## Hash Table
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/lasya43/Leetco/tree/master/0128-longest-consecutive-sequence) |
 | [0160-intersection-of-two-linked-lists](https://github.com/lasya43/Leetco/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/lasya43/Leetco/tree/master/0169-majority-element) |
 ## Union-Find
 |  |
 | ------- |
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/lasya43/Leetco/tree/master/0023-merge-k-sorted-lists) |
+| [0169-majority-element](https://github.com/lasya43/Leetco/tree/master/0169-majority-element) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -81,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/lasya43/Leetco/tree/master/0075-sort-colors) |
 | [0147-insertion-sort-list](https://github.com/lasya43/Leetco/tree/master/0147-insertion-sort-list) |
+| [0169-majority-element](https://github.com/lasya43/Leetco/tree/master/0169-majority-element) |
 ## Recursion
 |  |
 | ------- |
@@ -124,4 +128,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/lasya43/Leetco/tree/master/0118-pascals-triangle) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/lasya43/Leetco/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
