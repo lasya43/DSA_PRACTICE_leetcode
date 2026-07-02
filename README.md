@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/lasya43/Leetco/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/lasya43/Leetco/tree/master/0035-search-insert-position) |
 | [0075-sort-colors](https://github.com/lasya43/Leetco/tree/master/0075-sort-colors) |
+| [0118-pascals-triangle](https://github.com/lasya43/Leetco/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/lasya43/Leetco/tree/master/0128-longest-consecutive-sequence) |
 ## Hash Table
 |  |
@@ -119,4 +120,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/lasya43/Leetco/tree/master/0104-maximum-depth-of-binary-tree) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/lasya43/Leetco/tree/master/0118-pascals-triangle) |
 <!---LeetCode Topics End-->
