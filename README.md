@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/lasya43/Leetco/tree/master/0020-valid-parentheses) |
 | [2138-divide-a-string-into-groups-of-size-k](https://github.com/lasya43/Leetco/tree/master/2138-divide-a-string-into-groups-of-size-k) |
 ## Simulation
 |  |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/lasya43/Leetco/tree/master/0020-valid-parentheses) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/lasya43/Leetco/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Sorting
 |  |
