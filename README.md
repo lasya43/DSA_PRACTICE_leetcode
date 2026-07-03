@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/lasya43/Leetco/tree/master/0020-valid-parentheses) |
+| [0225-implement-stack-using-queues](https://github.com/lasya43/Leetco/tree/master/0225-implement-stack-using-queues) |
 | [0496-next-greater-element-i](https://github.com/lasya43/Leetco/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/lasya43/Leetco/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/lasya43/Leetco/tree/master/0844-backspace-string-compare) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/lasya43/Leetco/tree/master/0225-implement-stack-using-queues) |
 | [0303-range-sum-query-immutable](https://github.com/lasya43/Leetco/tree/master/0303-range-sum-query-immutable) |
 ## Prefix Sum
 |  |
@@ -206,4 +208,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/lasya43/Leetco/tree/master/1732-find-the-highest-altitude) |
 | [1991-find-the-middle-index-in-array](https://github.com/lasya43/Leetco/tree/master/1991-find-the-middle-index-in-array) |
 | [2574-left-and-right-sum-differences](https://github.com/lasya43/Leetco/tree/master/2574-left-and-right-sum-differences) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/lasya43/Leetco/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
