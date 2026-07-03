@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/lasya43/Leetco/tree/master/0128-longest-consecutive-sequence) |
 | [0160-intersection-of-two-linked-lists](https://github.com/lasya43/Leetco/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/lasya43/Leetco/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/lasya43/Leetco/tree/master/0242-valid-anagram) |
 | [0496-next-greater-element-i](https://github.com/lasya43/Leetco/tree/master/0496-next-greater-element-i) |
 ## Union-Find
 |  |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/lasya43/Leetco/tree/master/0020-valid-parentheses) |
+| [0242-valid-anagram](https://github.com/lasya43/Leetco/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/lasya43/Leetco/tree/master/0344-reverse-string) |
 | [0844-backspace-string-compare](https://github.com/lasya43/Leetco/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/lasya43/Leetco/tree/master/0856-score-of-parentheses) |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/lasya43/Leetco/tree/master/0075-sort-colors) |
 | [0147-insertion-sort-list](https://github.com/lasya43/Leetco/tree/master/0147-insertion-sort-list) |
 | [0169-majority-element](https://github.com/lasya43/Leetco/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/lasya43/Leetco/tree/master/0242-valid-anagram) |
 ## Recursion
 |  |
 | ------- |
