@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/lasya43/Leetco/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/lasya43/Leetco/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/lasya43/Leetco/tree/master/0128-longest-consecutive-sequence) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/lasya43/Leetco/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/lasya43/Leetco/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/lasya43/Leetco/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/lasya43/Leetco/tree/master/0303-range-sum-query-immutable) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/lasya43/Leetco/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/lasya43/Leetco/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/lasya43/Leetco/tree/master/0035-search-insert-position) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/lasya43/Leetco/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 ## Tree
 |  |
 | ------- |
