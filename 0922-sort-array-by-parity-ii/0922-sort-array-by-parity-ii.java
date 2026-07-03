@@ -1,0 +1,24 @@
+class Solution {
+    public int[] sortArrayByParityII(int[] nums) {
+
+      int i=0;
+      int j=1;
+
+      while(i<nums.length&&j<nums.length){
+
+        while(i<nums.length&&nums[i]%2==0){
+            i=i+2;
+        }
+        while(j<nums.length-1&&nums[j]%2==1){
+            j+=2;
+        }
+        if(i<nums.length&&j<nums.length){
+            int temp=nums[i];
+            nums[i]=nums[j];
+            nums[j]=temp;
+        }
+      }
+      return nums;
+        
+    }
+}
