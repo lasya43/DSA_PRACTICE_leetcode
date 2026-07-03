@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/lasya43/Leetco/tree/master/0303-range-sum-query-immutable) |
 | [0496-next-greater-element-i](https://github.com/lasya43/Leetco/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/lasya43/Leetco/tree/master/0682-baseball-game) |
+| [1089-duplicate-zeros](https://github.com/lasya43/Leetco/tree/master/1089-duplicate-zeros) |
 | [1441-build-an-array-with-stack-operations](https://github.com/lasya43/Leetco/tree/master/1441-build-an-array-with-stack-operations) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/lasya43/Leetco/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1598-crawler-log-folder](https://github.com/lasya43/Leetco/tree/master/1598-crawler-log-folder) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/lasya43/Leetco/tree/master/0160-intersection-of-two-linked-lists) |
 | [0344-reverse-string](https://github.com/lasya43/Leetco/tree/master/0344-reverse-string) |
 | [0844-backspace-string-compare](https://github.com/lasya43/Leetco/tree/master/0844-backspace-string-compare) |
+| [1089-duplicate-zeros](https://github.com/lasya43/Leetco/tree/master/1089-duplicate-zeros) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/lasya43/Leetco/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Stack
 |  |
