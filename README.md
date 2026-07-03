@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/lasya43/Leetco/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/lasya43/Leetco/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/lasya43/Leetco/tree/master/0303-range-sum-query-immutable) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/lasya43/Leetco/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0496-next-greater-element-i](https://github.com/lasya43/Leetco/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/lasya43/Leetco/tree/master/0682-baseball-game) |
 | [0905-sort-array-by-parity](https://github.com/lasya43/Leetco/tree/master/0905-sort-array-by-parity) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/lasya43/Leetco/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/lasya43/Leetco/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/lasya43/Leetco/tree/master/0242-valid-anagram) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/lasya43/Leetco/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0496-next-greater-element-i](https://github.com/lasya43/Leetco/tree/master/0496-next-greater-element-i) |
 ## Union-Find
 |  |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/lasya43/Leetco/tree/master/0160-intersection-of-two-linked-lists) |
 | [0283-move-zeroes](https://github.com/lasya43/Leetco/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/lasya43/Leetco/tree/master/0344-reverse-string) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/lasya43/Leetco/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0844-backspace-string-compare](https://github.com/lasya43/Leetco/tree/master/0844-backspace-string-compare) |
 | [0905-sort-array-by-parity](https://github.com/lasya43/Leetco/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/lasya43/Leetco/tree/master/0922-sort-array-by-parity-ii) |
@@ -127,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0147-insertion-sort-list](https://github.com/lasya43/Leetco/tree/master/0147-insertion-sort-list) |
 | [0169-majority-element](https://github.com/lasya43/Leetco/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/lasya43/Leetco/tree/master/0242-valid-anagram) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/lasya43/Leetco/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0905-sort-array-by-parity](https://github.com/lasya43/Leetco/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/lasya43/Leetco/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/lasya43/Leetco/tree/master/0977-squares-of-a-sorted-array) |
@@ -152,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/lasya43/Leetco/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/lasya43/Leetco/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/lasya43/Leetco/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/lasya43/Leetco/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Tree
 |  |
 | ------- |
