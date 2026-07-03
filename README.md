@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/lasya43/Leetco/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/lasya43/Leetco/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/lasya43/Leetco/tree/master/0035-search-insert-position) |
+| [0042-trapping-rain-water](https://github.com/lasya43/Leetco/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/lasya43/Leetco/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/lasya43/Leetco/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/lasya43/Leetco/tree/master/0118-pascals-triangle) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/lasya43/Leetco/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/lasya43/Leetco/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/lasya43/Leetco/tree/master/0075-sort-colors) |
 | [0086-partition-list](https://github.com/lasya43/Leetco/tree/master/0086-partition-list) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/lasya43/Leetco/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/lasya43/Leetco/tree/master/0042-trapping-rain-water) |
 | [0145-binary-tree-postorder-traversal](https://github.com/lasya43/Leetco/tree/master/0145-binary-tree-postorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/lasya43/Leetco/tree/master/0225-implement-stack-using-queues) |
 | [0496-next-greater-element-i](https://github.com/lasya43/Leetco/tree/master/0496-next-greater-element-i) |
@@ -190,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/lasya43/Leetco/tree/master/0042-trapping-rain-water) |
 | [0118-pascals-triangle](https://github.com/lasya43/Leetco/tree/master/0118-pascals-triangle) |
 ## Counting
 |  |
@@ -198,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/lasya43/Leetco/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/lasya43/Leetco/tree/master/0496-next-greater-element-i) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/lasya43/Leetco/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Design
