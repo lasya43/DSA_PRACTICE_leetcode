@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/lasya43/Leetco/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/lasya43/Leetco/tree/master/0035-search-insert-position) |
 | [0075-sort-colors](https://github.com/lasya43/Leetco/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/lasya43/Leetco/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/lasya43/Leetco/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/lasya43/Leetco/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/lasya43/Leetco/tree/master/0169-majority-element) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/lasya43/Leetco/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/lasya43/Leetco/tree/master/0075-sort-colors) |
 | [0086-partition-list](https://github.com/lasya43/Leetco/tree/master/0086-partition-list) |
+| [0088-merge-sorted-array](https://github.com/lasya43/Leetco/tree/master/0088-merge-sorted-array) |
 | [0160-intersection-of-two-linked-lists](https://github.com/lasya43/Leetco/tree/master/0160-intersection-of-two-linked-lists) |
 | [0344-reverse-string](https://github.com/lasya43/Leetco/tree/master/0344-reverse-string) |
 | [0844-backspace-string-compare](https://github.com/lasya43/Leetco/tree/master/0844-backspace-string-compare) |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/lasya43/Leetco/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/lasya43/Leetco/tree/master/0088-merge-sorted-array) |
 | [0147-insertion-sort-list](https://github.com/lasya43/Leetco/tree/master/0147-insertion-sort-list) |
 | [0169-majority-element](https://github.com/lasya43/Leetco/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/lasya43/Leetco/tree/master/0242-valid-anagram) |
