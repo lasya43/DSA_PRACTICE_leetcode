@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/lasya43/Leetco/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0496-next-greater-element-i](https://github.com/lasya43/Leetco/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/lasya43/Leetco/tree/master/0682-baseball-game) |
+| [0739-daily-temperatures](https://github.com/lasya43/Leetco/tree/master/0739-daily-temperatures) |
 | [0905-sort-array-by-parity](https://github.com/lasya43/Leetco/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/lasya43/Leetco/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/lasya43/Leetco/tree/master/0977-squares-of-a-sorted-array) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/lasya43/Leetco/tree/master/0225-implement-stack-using-queues) |
 | [0496-next-greater-element-i](https://github.com/lasya43/Leetco/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/lasya43/Leetco/tree/master/0682-baseball-game) |
+| [0739-daily-temperatures](https://github.com/lasya43/Leetco/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/lasya43/Leetco/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/lasya43/Leetco/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/lasya43/Leetco/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/lasya43/Leetco/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/lasya43/Leetco/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/lasya43/Leetco/tree/master/0739-daily-temperatures) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/lasya43/Leetco/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Design
 |  |
