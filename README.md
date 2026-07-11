@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/lasya43/Leetco/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/lasya43/Leetco/tree/master/0042-trapping-rain-water) |
 | [0145-binary-tree-postorder-traversal](https://github.com/lasya43/Leetco/tree/master/0145-binary-tree-postorder-traversal) |
+| [0155-min-stack](https://github.com/lasya43/Leetco/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/lasya43/Leetco/tree/master/0225-implement-stack-using-queues) |
 | [0496-next-greater-element-i](https://github.com/lasya43/Leetco/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/lasya43/Leetco/tree/master/0682-baseball-game) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/lasya43/Leetco/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/lasya43/Leetco/tree/master/0225-implement-stack-using-queues) |
 | [0303-range-sum-query-immutable](https://github.com/lasya43/Leetco/tree/master/0303-range-sum-query-immutable) |
 | [1472-design-browser-history](https://github.com/lasya43/Leetco/tree/master/1472-design-browser-history) |
