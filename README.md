@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/lasya43/Leetco/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/lasya43/Leetco/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/lasya43/Leetco/tree/master/0977-squares-of-a-sorted-array) |
+| [1004-max-consecutive-ones-iii](https://github.com/lasya43/Leetco/tree/master/1004-max-consecutive-ones-iii) |
 | [1089-duplicate-zeros](https://github.com/lasya43/Leetco/tree/master/1089-duplicate-zeros) |
 | [1441-build-an-array-with-stack-operations](https://github.com/lasya43/Leetco/tree/master/1441-build-an-array-with-stack-operations) |
 | [1472-design-browser-history](https://github.com/lasya43/Leetco/tree/master/1472-design-browser-history) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/lasya43/Leetco/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/lasya43/Leetco/tree/master/0209-minimum-size-subarray-sum) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/lasya43/Leetco/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1004-max-consecutive-ones-iii](https://github.com/lasya43/Leetco/tree/master/1004-max-consecutive-ones-iii) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/lasya43/Leetco/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 ## Tree
 |  |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/lasya43/Leetco/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/lasya43/Leetco/tree/master/0303-range-sum-query-immutable) |
+| [1004-max-consecutive-ones-iii](https://github.com/lasya43/Leetco/tree/master/1004-max-consecutive-ones-iii) |
 | [1732-find-the-highest-altitude](https://github.com/lasya43/Leetco/tree/master/1732-find-the-highest-altitude) |
 | [1991-find-the-middle-index-in-array](https://github.com/lasya43/Leetco/tree/master/1991-find-the-middle-index-in-array) |
 | [2574-left-and-right-sum-differences](https://github.com/lasya43/Leetco/tree/master/2574-left-and-right-sum-differences) |
@@ -256,5 +259,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/lasya43/Leetco/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/lasya43/Leetco/tree/master/0209-minimum-size-subarray-sum) |
 | [0904-fruit-into-baskets](https://github.com/lasya43/Leetco/tree/master/0904-fruit-into-baskets) |
+| [1004-max-consecutive-ones-iii](https://github.com/lasya43/Leetco/tree/master/1004-max-consecutive-ones-iii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/lasya43/Leetco/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 <!---LeetCode Topics End-->
