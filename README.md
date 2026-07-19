@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/lasya43/Leetco/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0128-longest-consecutive-sequence](https://github.com/lasya43/Leetco/tree/master/0128-longest-consecutive-sequence) |
 | [0160-intersection-of-two-linked-lists](https://github.com/lasya43/Leetco/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/lasya43/Leetco/tree/master/0169-majority-element) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/lasya43/Leetco/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/lasya43/Leetco/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/lasya43/Leetco/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/lasya43/Leetco/tree/master/0344-reverse-string) |
@@ -245,5 +247,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/lasya43/Leetco/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/lasya43/Leetco/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 <!---LeetCode Topics End-->
