@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/lasya43/Leetco/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/lasya43/Leetco/tree/master/0303-range-sum-query-immutable) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/lasya43/Leetco/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0485-max-consecutive-ones](https://github.com/lasya43/Leetco/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/lasya43/Leetco/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/lasya43/Leetco/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/lasya43/Leetco/tree/master/0739-daily-temperatures) |
