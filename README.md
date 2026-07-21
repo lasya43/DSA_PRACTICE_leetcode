@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1598-crawler-log-folder](https://github.com/lasya43/Leetco/tree/master/1598-crawler-log-folder) |
 | [1732-find-the-highest-altitude](https://github.com/lasya43/Leetco/tree/master/1732-find-the-highest-altitude) |
 | [1991-find-the-middle-index-in-array](https://github.com/lasya43/Leetco/tree/master/1991-find-the-middle-index-in-array) |
+| [2558-take-gifts-from-the-richest-pile](https://github.com/lasya43/Leetco/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2574-left-and-right-sum-differences](https://github.com/lasya43/Leetco/tree/master/2574-left-and-right-sum-differences) |
 ## Hash Table
 |  |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/lasya43/Leetco/tree/master/0844-backspace-string-compare) |
 | [1441-build-an-array-with-stack-operations](https://github.com/lasya43/Leetco/tree/master/1441-build-an-array-with-stack-operations) |
 | [2138-divide-a-string-into-groups-of-size-k](https://github.com/lasya43/Leetco/tree/master/2138-divide-a-string-into-groups-of-size-k) |
+| [2558-take-gifts-from-the-richest-pile](https://github.com/lasya43/Leetco/tree/master/2558-take-gifts-from-the-richest-pile) |
 ## Linked List
 |  |
 | ------- |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/lasya43/Leetco/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/lasya43/Leetco/tree/master/0215-kth-largest-element-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/lasya43/Leetco/tree/master/0451-sort-characters-by-frequency) |
+| [2558-take-gifts-from-the-richest-pile](https://github.com/lasya43/Leetco/tree/master/2558-take-gifts-from-the-richest-pile) |
 ## Merge Sort
 |  |
 | ------- |
