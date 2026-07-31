@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/lasya43/Leetco/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/lasya43/Leetco/tree/master/0344-reverse-string) |
 | [0451-sort-characters-by-frequency](https://github.com/lasya43/Leetco/tree/master/0451-sort-characters-by-frequency) |
+| [0516-longest-palindromic-subsequence](https://github.com/lasya43/Leetco/tree/master/0516-longest-palindromic-subsequence) |
 | [0844-backspace-string-compare](https://github.com/lasya43/Leetco/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/lasya43/Leetco/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/lasya43/Leetco/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/lasya43/Leetco/tree/master/0042-trapping-rain-water) |
 | [0118-pascals-triangle](https://github.com/lasya43/Leetco/tree/master/0118-pascals-triangle) |
+| [0516-longest-palindromic-subsequence](https://github.com/lasya43/Leetco/tree/master/0516-longest-palindromic-subsequence) |
 ## Counting
 |  |
 | ------- |
