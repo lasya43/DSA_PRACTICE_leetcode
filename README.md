@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/lasya43/Leetco/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/lasya43/Leetco/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/lasya43/Leetco/tree/master/0020-valid-parentheses) |
+| [0072-edit-distance](https://github.com/lasya43/Leetco/tree/master/0072-edit-distance) |
 | [0242-valid-anagram](https://github.com/lasya43/Leetco/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/lasya43/Leetco/tree/master/0344-reverse-string) |
 | [0451-sort-characters-by-frequency](https://github.com/lasya43/Leetco/tree/master/0451-sort-characters-by-frequency) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/lasya43/Leetco/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/lasya43/Leetco/tree/master/0042-trapping-rain-water) |
+| [0072-edit-distance](https://github.com/lasya43/Leetco/tree/master/0072-edit-distance) |
 | [0118-pascals-triangle](https://github.com/lasya43/Leetco/tree/master/0118-pascals-triangle) |
 | [0516-longest-palindromic-subsequence](https://github.com/lasya43/Leetco/tree/master/0516-longest-palindromic-subsequence) |
 ## Counting
