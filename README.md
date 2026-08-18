@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/lasya43/Leetco/tree/master/0303-range-sum-query-immutable) |
 | [0322-coin-change](https://github.com/lasya43/Leetco/tree/master/0322-coin-change) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/lasya43/Leetco/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/lasya43/Leetco/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/lasya43/Leetco/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/lasya43/Leetco/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/lasya43/Leetco/tree/master/0682-baseball-game) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/lasya43/Leetco/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/lasya43/Leetco/tree/master/0242-valid-anagram) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/lasya43/Leetco/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/lasya43/Leetco/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/lasya43/Leetco/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/lasya43/Leetco/tree/master/0496-next-greater-element-i) |
 | [0904-fruit-into-baskets](https://github.com/lasya43/Leetco/tree/master/0904-fruit-into-baskets) |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/lasya43/Leetco/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/lasya43/Leetco/tree/master/0242-valid-anagram) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/lasya43/Leetco/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/lasya43/Leetco/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/lasya43/Leetco/tree/master/0451-sort-characters-by-frequency) |
 | [0905-sort-array-by-parity](https://github.com/lasya43/Leetco/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/lasya43/Leetco/tree/master/0922-sort-array-by-parity-ii) |
