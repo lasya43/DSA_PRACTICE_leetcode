@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1472-design-browser-history](https://github.com/lasya43/Leetco/tree/master/1472-design-browser-history) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/lasya43/Leetco/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/lasya43/Leetco/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1512-number-of-good-pairs](https://github.com/lasya43/Leetco/tree/master/1512-number-of-good-pairs) |
 | [1598-crawler-log-folder](https://github.com/lasya43/Leetco/tree/master/1598-crawler-log-folder) |
 | [1732-find-the-highest-altitude](https://github.com/lasya43/Leetco/tree/master/1732-find-the-highest-altitude) |
 | [1991-find-the-middle-index-in-array](https://github.com/lasya43/Leetco/tree/master/1991-find-the-middle-index-in-array) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/lasya43/Leetco/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/lasya43/Leetco/tree/master/0496-next-greater-element-i) |
 | [0904-fruit-into-baskets](https://github.com/lasya43/Leetco/tree/master/0904-fruit-into-baskets) |
+| [1512-number-of-good-pairs](https://github.com/lasya43/Leetco/tree/master/1512-number-of-good-pairs) |
 ## Union-Find
 |  |
 | ------- |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/lasya43/Leetco/tree/master/0002-add-two-numbers) |
 | [0202-happy-number](https://github.com/lasya43/Leetco/tree/master/0202-happy-number) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/lasya43/Leetco/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [1512-number-of-good-pairs](https://github.com/lasya43/Leetco/tree/master/1512-number-of-good-pairs) |
 ## Greedy
 |  |
 | ------- |
@@ -272,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/lasya43/Leetco/tree/master/0169-majority-element) |
 | [0451-sort-characters-by-frequency](https://github.com/lasya43/Leetco/tree/master/0451-sort-characters-by-frequency) |
+| [1512-number-of-good-pairs](https://github.com/lasya43/Leetco/tree/master/1512-number-of-good-pairs) |
 ## Monotonic Stack
 |  |
 | ------- |
