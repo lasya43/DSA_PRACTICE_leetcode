@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/lasya43/Leetco/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/lasya43/Leetco/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/lasya43/Leetco/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/lasya43/Leetco/tree/master/0560-subarray-sum-equals-k) |
 | [0682-baseball-game](https://github.com/lasya43/Leetco/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/lasya43/Leetco/tree/master/0739-daily-temperatures) |
 | [0904-fruit-into-baskets](https://github.com/lasya43/Leetco/tree/master/0904-fruit-into-baskets) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/lasya43/Leetco/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/lasya43/Leetco/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/lasya43/Leetco/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/lasya43/Leetco/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/lasya43/Leetco/tree/master/0904-fruit-into-baskets) |
 | [1512-number-of-good-pairs](https://github.com/lasya43/Leetco/tree/master/1512-number-of-good-pairs) |
 ## Union-Find
@@ -295,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/lasya43/Leetco/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/lasya43/Leetco/tree/master/0303-range-sum-query-immutable) |
+| [0560-subarray-sum-equals-k](https://github.com/lasya43/Leetco/tree/master/0560-subarray-sum-equals-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/lasya43/Leetco/tree/master/1004-max-consecutive-ones-iii) |
 | [1732-find-the-highest-altitude](https://github.com/lasya43/Leetco/tree/master/1732-find-the-highest-altitude) |
 | [1991-find-the-middle-index-in-array](https://github.com/lasya43/Leetco/tree/master/1991-find-the-middle-index-in-array) |
