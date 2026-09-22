@@ -343,4 +343,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/lasya43/Leetco/tree/master/0136-single-number) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/lasya43/Leetco/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
