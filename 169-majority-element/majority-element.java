@@ -1,52 +1,21 @@
-// import java.util.*;
-// class Solution {
-//     public int majorityElement(int[] nums) {
-// //         int n=nums.length;
-//         int l=0;
-//         int count=1;
-//         int temp=1;
-//            int ans=0;
-//         for(int r=1;r<n;r++){
-//             if(nums[l]==nums[r]){
-//                 count=count+1;
-//             }
-//             else{
-//                 temp=temp+1;
-//             }
-//             ans=Math.max(count,temp);
-//         }
-//        //  return ans;
-//           return nums[ans];
-//     }
-// }
-
-
-// Mores's Voting Algorithm
-import java.util.*;
 class Solution {
     public int majorityElement(int[] nums) {
+        
+        int val=nums.length/2;
+        int count=0;
+        int can=0;
+        for(int i=0;i<nums.length;i++){
+            if(count==0){
+                can=nums[i];
+            }
+            if(nums[i]==can){
+                count++;
 
-
-
-int majority=nums[0];
-int votes=1;
-for(int i=1;i<nums.length;i++){
-    if(votes==0){
-        majority=nums[i];
-        votes++;
-    }
-    else if(majority==nums[i]){
-        votes++;
-    }
-    else{
-        votes--;
+            }
+            else{
+                count--;
+            }
+        }
+        return can;
     }
 }
-return majority;
-    }
-}
-
-
-
-
-
